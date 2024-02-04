@@ -1,6 +1,10 @@
-body {
-    margin: 0;
-    background-color: #bad;
+
+.i-col {
+    display: flex;
+    padding: 2em;
 }
 
-display: flex;
+.d-col {
+    display: flex;
+    padding: 2em;
+}
