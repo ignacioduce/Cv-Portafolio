@@ -1,5 +1,18 @@
-.portafolio {
+
+#portafolio {
     display: flex;
+    justify-content: center;
     padding: 2em;
     margin: 2em;
+    border: 2px solid grey;
+}
+
+.link-fin {
+    display: flex;
+    padding: 2em;
+    justify-content: center;
+}
+
+#th {
+    text-align: center;
 }
