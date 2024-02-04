@@ -1,10 +1,5 @@
-
-.i-col {
+.portafolio {
     display: flex;
     padding: 2em;
-}
-
-.d-col {
-    display: flex;
-    padding: 2em;
+    margin: 2em;
 }
