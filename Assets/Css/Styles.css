@@ -4,15 +4,27 @@
     justify-content: center;
     padding: 2em;
     margin: 2em;
-    border: 2px solid grey;
+    border: 3px solid grey;
+    border-radius: 50px;
+    background-color:aliceblue;
 }
 
 .link-fin {
     display: flex;
     padding: 2em;
     justify-content: center;
+    border-radius: 25px;
+    background-color:aliceblue;
+}
+#img {
+    padding: 2em;
 }
 
 #th {
     text-align: center;
+}
+
+.repositorios {
+    margin-left: 1em;
+    color: grey;
 }
